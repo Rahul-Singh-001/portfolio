@@ -25,7 +25,7 @@ const projects: Project[] = [
     icon: <Layers size={28} />,
     gradient: 'from-purple-600/20 to-violet-600/10',
     borderGlow: 'hover:border-purple-500/40 hover:shadow-[0_0_40px_rgba(124,58,237,0.15)]',
-    github: 'https://github.com/rahulsingh/second-brain',
+    github: 'https://github.com/Rahul-Singh-001/Second_Brain',
     live: '#',
     category: 'Full Stack App',
   },

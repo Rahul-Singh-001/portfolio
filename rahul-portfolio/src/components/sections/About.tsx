@@ -4,7 +4,7 @@ import { GraduationCap, Code2, Brain, Trophy } from 'lucide-react'
 
 const stats = [
   { label: 'LeetCode Problems', value: '500+', icon: Brain },
-  { label: 'Projects Built', value: '10+', icon: Code2 },
+  { label: 'Projects Built', value: '3+', icon: Code2 },
   { label: 'Contest Rating', value: '1600+', icon: Trophy },
   { label: 'Technologies', value: '15+', icon: GraduationCap },
 ]

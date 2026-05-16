@@ -36,8 +36,8 @@ const achievements = [
   {
     icon: Star,
     title: 'Full-Stack Projects',
-    description: 'Built and deployed production-level applications used by real users with modern tech stacks.',
-    metric: '10+',
+    description: 'Built and deployed  applications used by real users with modern tech stacks.',
+    metric: '3+',
     metricLabel: 'Projects Shipped',
     color: 'from-purple-600/20 to-violet-600/10',
     iconColor: 'text-purple-400',

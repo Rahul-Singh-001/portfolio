@@ -4,12 +4,12 @@ import { Github, Linkedin, Mail, Code2, ArrowUp } from 'lucide-react'
 const navLinks = ['About', 'Skills', 'Projects', 'Achievements', 'Certificates', 'Contact']
 
 const socials = [
-  { icon: Github, href: 'https://github.com/rahulsingh', label: 'GitHub' },
-  { icon: Linkedin, href: 'https://linkedin.com/in/rahulsingh', label: 'LinkedIn' },
-  { icon: Mail, href: 'mailto:rahulsingh@email.com', label: 'Email' },
+  { icon: Github, href: 'https://github.com/Rahul-Singh-001', label: 'GitHub' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/rahul-singh-336309296/', label: 'LinkedIn' },
+  { icon: Mail, href: 'mailto:rs7121622@email.com', label: 'Email' },
   {
     icon: Code2,
-    href: 'https://leetcode.com/rahulsingh',
+    href: 'https://leetcode.com/u/rahulsingh_001/',
     label: 'LeetCode',
   },
 ]
